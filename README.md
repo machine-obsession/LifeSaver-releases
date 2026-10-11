@@ -20,7 +20,7 @@ What it does:
 
 **Feedback:** open an [issue](https://github.com/machine-obsession/LifeSaver-releases/issues). Bug reports, games whose saves weren't detected (please include the game name and the folder the saves are in), questions and requests to try the alpha are all welcome. Issues here are public.
 
-**Cost:** free. No subscription, no ads, nothing to unlock. A way to leave a tip is being set up and will be linked from the website.
+**Cost:** free. No subscription, no ads, nothing to unlock. If you'd like to leave a tip, you can do it on [Ko-fi](https://ko-fi.com/machineobsession) or [Afdian 爱发电](https://afdian.com/a/machineobsession) (WeChat Pay / Alipay). Both pages are under Machine Obsession, the name I use online. Tips don't unlock anything; the app is the same for everyone.
 
 The source code is in a private repository. This one only holds releases.
 
@@ -40,7 +40,7 @@ LifeSaver 是一个免费的 Windows 游戏存档备份工具。从 LifeSaver �
 
 **反馈：** 在这里开 [issue](https://github.com/machine-obsession/LifeSaver-releases/issues)。报 bug、某个游戏的存档没认出来（请写上游戏名和存档所在的文件夹）、提问、想参加内测都可以。这里的 issue 是公开的。
 
-**费用：** 免费，没有订阅、广告，也没有付费功能。打赏方式正在开通，开好后会放在网站上。
+**费用：** 免费，没有订阅、广告，也没有付费功能。想打赏的话，可以去[爱发电](https://afdian.com/a/machineobsession)（微信 / 支付宝）或 [Ko-fi](https://ko-fi.com/machineobsession)。两边的名字都是 Machine Obsession，这是我平时用的名号。打赏不解锁任何功能，软件对所有人都一样。
 
 源码在私有仓库，这个仓库只放发布包。
 
@@ -60,6 +60,6 @@ LifeSaver は Windows 用の無料のセーブデータ自動バックアップ�
 
 **フィードバック：** こちらで [issue](https://github.com/machine-obsession/LifeSaver-releases/issues) を立ててください。不具合、セーブが認識されなかったゲーム（ゲーム名とセーブのあるフォルダーを書いてください）、質問、テストへの参加希望など、何でも歓迎です。issue は公開されます。
 
-**料金：** 無料です。月額課金も広告もなく、有料の機能もありません。支援の受け付けは準備中で、整ったらウェブサイトに載せます。
+**料金：** 無料です。月額課金も広告もなく、有料の機能もありません。投げ銭は [Ko-fi](https://ko-fi.com/machineobsession) か [爱发电](https://afdian.com/a/machineobsession)（WeChat Pay・Alipay）からどうぞ。どちらのページも、ふだん使っている Machine Obsession という名前になっています。投げ銭で機能が増えることはなく、誰でも同じものを使えます。
 
 ソースコードは非公開のリポジトリにあります。このリポジトリにはリリースだけを置いています。
